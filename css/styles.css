@@ -1,0 +1,605 @@
+html{
+	overflow-y: scroll; 
+	height:100%;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+
+margin: 0;
+
+padding: 0;
+
+}
+
+body{
+	font: 0.9em Tahoma, Verdana, Arial;
+	line-height:172%;
+	background: white;
+}
+ 
+#content{
+	width: 1000px;
+	padding: 25px;
+	background: #fff;
+	margin: 200px auto 0 auto;
+	min-height: 300px;
+}
+
+.emp_red{   /*used to make bold and red font for emphasis.*/
+	color: red;
+	font-weight: bold;
+}
+.emp_green{   /*used to make green font for emphasis.*/
+	color: green;
+}
+
+.errors{
+	font-weight: bold;
+	border:red solid 2px;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+/*MAIN SITE PAGE STYLES*/
+
+/*2 column layout*/
+
+ /*content area 1 - aligned to left side of page. typically used for images*/
+div#content1{
+	float:left; 
+	width:45%;
+}
+#content1 img, #content1 iframe.map{
+	width: 365px;
+	margin-right:38px;
+	margin-left:38px;
+	margin-bottom:40px;
+	border: solid black 1px;
+}
+button#walking_report{
+	width:200px;
+	height:40px;
+	margin-left:120px;
+	margin-right:120px;
+}
+
+/*content area 2 - aligned to right side of page. typically used for text*/
+div#content2{ 
+	margin-left:45% ; 
+	width:55%;  
+	font-size:14px;
+}
+#content2 h1{
+	font: 2em open sans,sans-serif;
+	color:rgb(69, 69, 69);
+	margin-bottom:15px;
+	}
+#content2 h2{
+	font: 1.4em open sans,sans-serif;
+	color:rgb(69, 69, 69);
+	margin-top:30px;
+	margin-bottom:15px;
+	}
+#content2 p, #content2 h3, #content2 li{
+	color: #454545;
+	line-height:1.2em;
+	font: 1em open sans,sans-serif;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+#content2 h3{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top:30px;
+	margin-bottom:10px;
+}
+#content2 li{
+	font-size: 0.9em;
+	margin:5px;
+	margin-left:25px;
+}
+#content2 #signature{
+	width: 217px;
+	height: 55px;
+	float:right;
+}
+
+#testimonials p{
+	color: #454545;
+	line-height:1.2em;
+	font: 1em open sans,sans-serif;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+#testimonials h3{
+	color: #454545;
+	font: 1.1em open sans,sans-serif;
+	font-weight: bold;
+	margin-top:30px;
+	margin-bottom:10px;
+
+	}
+
+div#nordicwalks_gallery img{
+	width:150px;
+	height:150px;
+	margin:0px;
+}
+div#nordicwalks_gallery img.gallery_left{
+	
+}
+div#nordicwalks_gallery img.gallery_right{
+	
+}
+.clear { /* used at the end of all pages that use 2 column layout above. clears the floats so content display correctly (content div background extend all the way to bottom of page) */
+	clear:both
+}
+
+/*MEMBER HOME STYLES*/
+
+#notification{
+	font-weight: bold;
+	border: green solid 2px;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+	}
+
+button.event{
+	height: 50px;
+	width: 193px;
+	margin: 24px;
+	box-shadow: 3px 3px 3px #888;
+}
+#walks_booked, #walks_booked td, #walks_booked tr, #walks_booked th{
+	border:solid black 1px;
+	border-collapse:collapse;
+	font-size: 12px;
+	/*width:210px;*/
+	text-align: center;
+	padding:5px;
+}
+.cancel_walk{
+	width:20px;
+	height:20px;
+}
+/*ACCOUNT INFO*/
+div#pole_renting{
+	margin-top:25px;
+	font-size: 12px;
+	width:550px;
+
+}
+button#pole_renting{
+	
+}
+
+
+/*NAVIGATION*/
+#nav{
+	list-style:none;
+	margin-bottom:10px;
+	/* Clear floats */
+	float:right;
+	width:100%;
+	margin:0px;
+	position:relative;
+	top:-150px;
+	left:240px;
+	font-size: 12px;
+}
+#nav li{
+	float:left;
+	margin-right:10px;
+	position:relative;
+}
+#nav a{
+	display:block;
+	padding:5px;
+	color:#fff;
+	background:rgba(0,0,0,0);
+	text-decoration:none;
+}
+#nav a:hover{
+	color:#F7C709;
+	text-decoration:none;
+}
+
+/*--- DROPDOWN ---*/
+#nav ul{
+	background:white; /* Adding a background makes the dropdown work properly in IE7+. Make this as close to your page's background as possible (i.e. white page == white background). */
+	background:rgba(255,255,255,0); /* But! Let's make the background fully transparent where we can, we don't actually want to see it if we can help it... */
+	list-style:none;
+	position:absolute;
+	left:-9999px; /* Hide off-screen when not needed (this is more accessible than display:none;) */
+}
+#nav ul li{
+	padding-top:0px; /* Introducing a padding between the li and the a give the illusion spaced items */
+	float:none;
+}
+#nav ul a{
+	white-space:nowrap; /* Stop text wrapping and creating multi-line dropdown items */
+}
+#nav li:hover ul{ /* Display the dropdown on hover */
+	left:0; /* Bring back on-screen when needed */
+}
+#nav li:hover a{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
+	background:#585858;
+	text-decoration:none;
+}
+#nav li:hover ul a{ /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
+	text-decoration:none;
+}
+#nav li:hover ul li a:hover{ /* Here we define the most explicit hover states--what happens when you hover each individual link. */
+	color:#F7C709;
+}
+
+
+* { /*set up page defaults */
+/*	margin: 0px;
+	padding: 0px; */
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+
+/*GENERAL SITE-WIDE CONFIGS*/
+
+div#content{
+	margin-left:auto;
+	margin-right:auto;
+	width:980px;
+	margin-bottom:100px;
+}
+	/*Heading*/
+div#heading_background{
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	box-shadow: 0px 1px 1px 0px rgba(255, 255, 255, 0.6) inset, 0px -1px 1px 0px rgba(0, 0, 0, 0.6) inset, 0px 0px 5px 0px rgba(0, 0, 0, 0.6);
+	background-color: #8E8E8B;
+	border-top: 0px solid #8E8E8B;
+	border-bottom: 0px solid #8E8E8B;
+	background-image: url('../images/bg.png');
+	background-repeat: repeat-x;
+	height:170px;
+}
+div#heading{
+	height:170px;
+	width: 980px;
+	border-bottom:0px;
+	margin-bottom:60px;
+	margin-right: auto;
+	margin-left:  auto;
+}
+#heading_number{
+	margin:0px;
+	position: relative;
+	top: -150px;
+	float:right;
+	font-size: 23px;
+	color:#E0E0E0;
+}
+#heading_email{
+	margin:0px;
+	position: relative;
+	top: -200px;
+	float:right;
+	font-size: 16px;
+	color:#E0E0E0;
+}
+#heading_logo {
+	position: relative;
+	top: -20px;
+	margin: 0px;
+	width: 229px;
+	height: 217px;
+
+}
+#heading_line{
+	margin:0px;
+	padding:0px;
+	float:right;
+	position: relative;
+	top: -170px;
+	height:2px;
+	background-color: #E0E0E0;
+	color: #E0E0E0;
+	width:750px;
+	border: none;
+	}
+
+	/*footer*/
+div#footer_background{
+	margin-top:100px;
+	margin-bottom:0px;
+	height:150px;
+	box-shadow: 0px 1px 1px 0px rgba(255, 255, 255, 0.6) inset, 0px -1px 1px 0px rgba(0, 0, 0, 0.6) inset, 0px 0px 5px 0px rgba(0, 0, 0, 0.6);
+	background-color: #8E8E8B;
+	border-top: 0px solid #8E8E8B;
+	border-bottom: 0px solid #8E8E8B;
+	background-image: url('../images/bg.png');
+	background-repeat: repeat-x;
+}
+div#footer{
+	padding-top:50px;
+	height:100px;
+	width: 980px;
+	border-bottom:0px;
+	margin-bottom:0px;
+	margin-right: auto;
+	margin-left:  auto;
+}
+#footer h3{
+	margin-bottom:10px;
+	font-size: 1.3em;
+	color:#E0E0E0;
+}
+
+#footer div#social_media{
+	float:left;
+}	
+#footer div#affiliations{
+	float:right;
+}
+#affiliations img{
+	height:40px;
+	width:auto;
+}
+label{
+	font-weight: bold;
+}
+
+button#logout{
+	width:120px;
+	height:30px;
+	float:right;
+	position:relative;
+	top:-60px;
+	box-shadow: 3px 3px 3px #888888;
+}
+
+
+.emp_red{   /*used to make bold and red font for emphasis.*/
+	color: red;
+	font-weight: bold;
+}
+.emp_green{   /*used to make green font for emphasis.*/
+	color: green;
+}
+
+.errors{
+	font-weight: bold;
+	border:red solid 2px;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+/*END GENERAL CONFIGS*/
+
+/*LOGIN PAGE*/
+
+#logo{
+	width:150px;
+	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:30px;
+	position:relative;
+	left:-100px;
+}fieldset#loginform { /*feildset containing login form*/
+	width:340px;
+	background-color:lightgrey;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	border:solid 2px black;
+	padding-top:10px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#loginform label, #loginform legend{ /*add margin to labels and legend*/
+	margin:0px 45px 5px 45px;
+}
+legend{
+	font-size:1.15em;
+
+}
+#loginform #username, #loginform #password{
+	width:240px;
+	margin:0px 45px 15px 45px;
+}
+#remeber{
+	margin-left:45px;
+	margin-right:-25px;
+	margin-bottom:10px;
+}
+#submit{
+	width:100px;
+	height:40px;
+	margin: 10px;
+	margin-left:120px;
+}
+#loginerrors{
+	color:red;
+	font-size:1em;
+	margin-left:35px;
+
+}
+#warning{
+	font-size:0.85em;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+
+/*----- END LOGIN PAGE*/
+
+/*ADMIN HOME PAGE*/
+
+div#menu_buttons{
+	margin-top:50px;
+	border: solid black 1px;
+	border-left: hidden;
+	border-right: hidden;
+}
+
+#menu_buttons button{
+	height: 50px;
+	width:193px;
+	margin:24px;
+	box-shadow: 3px 3px 3px #888888;
+}	
+#password_change{
+	float:right;
+}
+/*END ADMIN HOME PAGE*/
+/*MEMBERS LIST*/
+
+form#searchform{
+	float:right;
+	margin-bottom:10px;
+	}
+#searchbox{
+	border-radius: 15px;
+	background: url(images/icons/search.png) no-repeat 3px 3px;
+	padding-left:15px;
+}
+#searchbox_reset{
+	width:12px;
+	height: 12px;
+
+	}
+#member_list{
+	border:solid black 1px;
+	border-collapse:collapse;
+	width:980px;
+	text-align:center;
+}
+#member_list th{
+	background-color: lightgrey;
+}
+#member_list td, #member_list tr, #member_list th{
+	border:solid black 1px;
+}
+#member_list tr:hover:not(:first-of-type){
+	background-color: rgba(0, 104, 147, 0.46);
+}	
+/*END MEMBERS LIST*//*VIEW MEMBER + MODIFY MEMBER*/
+#member_data{
+	margin-top:30px;
+}
+#member_data, #member_data td, #member_data tr, #member_data th{
+	border:solid black 1px;
+	border-collapse:collapse;
+	width:270px;
+	text-align: left;
+	padding:2px;
+}
+table#member_data{
+	width:530px;
+}
+#member_data td{
+	width:290px;
+	text-align: center;;
+}
+button#enable_acc, button#disable_acc, button#verify_hs, button#revoke_hs, #hs_notes input[type="submit"]{
+	width:120px;
+	height:25px;
+	margin:5px;
+	box-shadow: 3px 3px 3px #888888;
+	border: 0px;
+}button#enable_acc, button#disable_acc{
+	display:inline-block;
+	padding-left: 15px;
+
+}
+
+button#disable_acc{
+	background-image: url(images/icons/cross.png); 
+	background-size: 15px;
+	background-position: 1px 4px;
+	background-repeat: no-repeat;
+	}
+button#enable_acc{
+	background-image: url(images/icons/tick.png); 
+	background-size: 15px;
+	background-position: 2px 4px;
+	background-repeat: no-repeat;
+}
+#plus_credit img, #minus_credit img{
+	width: 10px;
+	height:10px;
+	margin:5px;
+	margin-bottom:1px;
+}
+button#plus_credit, button#minus_credit{
+	width: 30px;
+	height: 30px;
+}
+#credit{
+	display:inline-block;
+	width:30px;
+}
+
+#mod_member_form input, #mod_member_form textarea{
+	width:300px;
+	margin:0px;
+}
+#mod_member_form input[type="radio"]{
+	width:20px;
+	margin-left:10px;
+	}
+#mod_member_form textarea{
+	/*make text area match border of text input*/
+	background-color: white;
+	border: 2px inset;
+	font-size: 12px;
+}
+button#mod_member{
+	width:220px;
+	height:25px;
+	margin-top:2px;
+	box-shadow: 3px 3px 3px #888888;
+	border-bottom-right-radius: 30px;
+}
+button#delete_member{
+	width:220px;
+	height:25px;
+	margin-top:2px;
+	margin-left:40px;
+	color:red;
+	box-shadow: 3px 3px 3px #888888;
+	border-bottom-left-radius: 30px;
+}
+#hs_notes textarea{
+	width:250px;
+	height:60px;
+	border: black solid 1px;
+}/*END VIEW MEMBER + MODIFY MEMBER*/
+
+/*NEW ADMIN + MODIFY ADMIN*/#new_admin #username, #new_admin  #password, #new_admin  #email{
+	width:250;
+	margin:0px 45px 15px 45px;
+}
+ #new_admin  #email{
+ 	margin-left: 75px;
+}
+
+#mod_admin #username, #mod_admin  #password, #mod_admin  #email{
+	width:250;
+	margin:0px 45px 15px 45px;
+}
+ #mod_admin  #email{
+ 	margin-left: 75px;
+}
+#permissions, #permissions fieldset{
+	padding-left:25px;
+	padding-right:25px;
+	padding-bottom:25px;
+}

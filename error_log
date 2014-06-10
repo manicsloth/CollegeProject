@@ -1,0 +1,871 @@
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:46 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:51 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:19:54 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:20:55 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:22:09 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[18-Mar-2014 10:26:23 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[18-Mar-2014 05:31:40] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'manic_sloth'@'localhost' to database 'manic_members'' in /home1/manic/public_html/core/connect/database.php:24
+Stack trace:
+#0 /home1/manic/public_html/core/connect/database.php(24): PDO->__construct('mysql:host=loca...', 'manic_sloth', '123fistandantil...')
+#1 /home1/manic/public_html/core/init.php(6): require('/home1/manic/pu...')
+#2 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#3 {main}
+  thrown in /home1/manic/public_html/core/connect/database.php on line 24
+[18-Mar-2014 05:34:52] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'manic_sloth'@'localhost' to database 'manic_members'' in /home1/manic/public_html/core/connect/database.php:24
+Stack trace:
+#0 /home1/manic/public_html/core/connect/database.php(24): PDO->__construct('mysql:host=loca...', 'manic_sloth', '123fistandantil...')
+#1 /home1/manic/public_html/core/init.php(6): require('/home1/manic/pu...')
+#2 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#3 {main}
+  thrown in /home1/manic/public_html/core/connect/database.php on line 24
+[18-Mar-2014 05:34:56] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'manic_sloth'@'localhost' to database 'manic_members'' in /home1/manic/public_html/core/connect/database.php:24
+Stack trace:
+#0 /home1/manic/public_html/core/connect/database.php(24): PDO->__construct('mysql:host=loca...', 'manic_sloth', '123fistandantil...')
+#1 /home1/manic/public_html/core/init.php(6): require('/home1/manic/pu...')
+#2 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#3 {main}
+  thrown in /home1/manic/public_html/core/connect/database.php on line 24
+[18-Mar-2014 05:38:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 05:41:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 05:41:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:31:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:31:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:31:08] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:43:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:45:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:45:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:47:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:47:51] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:47:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:50:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:55:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 06:57:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:16:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:23:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:23:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:24:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:27:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:35:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:37:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:38:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:38:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:38:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:38:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:45:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 07:51:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 08:08:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 08:37:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/login.php(3): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 09:14:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/login.php(3): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 09:49:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/login.php(3): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 09:58:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/login.php(3): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 09:58:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/login.php(3): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 09:59:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 10:05:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 10:05:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 10:05:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(33): Bcrypt->__construct()
+#1 /home1/manic/public_html/account_info.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[18-Mar-2014 10:08:06 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 32
+[18-Mar-2014 10:08:14 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 32
+[18-Mar-2014 10:09:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home1/manic/public_html/core/classes/bcrypt.php on line 7
+[18-Mar-2014 10:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home1/manic/public_html/core/classes/bcrypt.php on line 7
+[18-Mar-2014 10:09:55 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 32
+[18-Mar-2014 10:33:06 America/Chicago] PHP Warning:  Missing argument 2 for Users::credit_control(), called in /home1/manic/public_html/member_home.php on line 6 and defined in /home1/manic/public_html/core/classes/users.php on line 395
+[18-Mar-2014 10:33:07 America/Chicago] PHP Warning:  Missing argument 3 for Users::credit_control(), called in /home1/manic/public_html/member_home.php on line 6 and defined in /home1/manic/public_html/core/classes/users.php on line 395
+[18-Mar-2014 10:33:10 America/Chicago] PHP Warning:  Missing argument 2 for Users::credit_control(), called in /home1/manic/public_html/member_home.php on line 6 and defined in /home1/manic/public_html/core/classes/users.php on line 395
+[18-Mar-2014 10:33:10 America/Chicago] PHP Warning:  Missing argument 3 for Users::credit_control(), called in /home1/manic/public_html/member_home.php on line 6 and defined in /home1/manic/public_html/core/classes/users.php on line 395
+[18-Mar-2014 10:46:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[18-Mar-2014 10:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/core/classes/users.php on line 113
+[18-Mar-2014 10:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/core/classes/users.php on line 113
+[18-Mar-2014 10:49:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[18-Mar-2014 11:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected '"9"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/manic/public_html/member_home.php on line 6
+[18-Mar-2014 13:30:36 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:30:36 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:30:36 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:27 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:27 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:27 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:28 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:28 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:28 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:31 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:31 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:31 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:32 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:32 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:32 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:35 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:35 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:32:35 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:52:11 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:52:11 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:52:11 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:17 America/Chicago] PHP Warning:  require(/core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:17 America/Chicago] PHP Fatal error:  require(): Failed opening required '/core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:18 America/Chicago] PHP Warning:  require(/core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:18 America/Chicago] PHP Fatal error:  require(): Failed opening required '/core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:19 America/Chicago] PHP Warning:  require(/core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:53:19 America/Chicago] PHP Fatal error:  require(): Failed opening required '/core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/doineedtobefit.php on line 2
+[18-Mar-2014 13:55:15 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 13:55:15 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 13:55:15 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 13:55:16 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 13:55:16 America/Chicago] PHP Warning:  require(../core/init.php): failed to open stream: No such file or directory in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 13:55:16 America/Chicago] PHP Fatal error:  require(): Failed opening required '../core/init.php' (include_path='.:/opt/php55/lib/php') in /home1/manic/public_html/whatisnordicwalking.php on line 2
+[18-Mar-2014 16:45:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/nordicwalks.php on line 50
+[18-Mar-2014 17:30:09 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[19-Mar-2014 09:11:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/manic/public_html/menu.php on line 43
+[20-Mar-2014 09:22:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/register.php on line 158
+[20-Mar-2014 09:25:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/register.php on line 167
+[20-Mar-2014 09:32:00 America/Chicago] PHP Parse error:  syntax error, unexpected ''member_reg_alt_c' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home1/manic/public_html/register.php on line 135
+[20-Mar-2014 09:38:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/register.php on line 146
+[20-Mar-2014 09:39:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/register.php on line 146
+[20-Mar-2014 09:40:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/register.php on line 146
+[20-Mar-2014 09:40:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/register.php on line 146
+[20-Mar-2014 09:40:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/register.php on line 146
+[20-Mar-2014 09:55:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/register.php on line 135
+[20-Mar-2014 09:57:31 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:32 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:34 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:35 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:36 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:36 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:57:36 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:58:29 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:58:29 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 09:59:43 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:59:43 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 09:59:49 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 09:59:49 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 10:00:24 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 10:00:24 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 10:01:25 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 10:01:25 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 10:03:29 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 10:03:29 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 10:03:35 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 141
+[20-Mar-2014 10:03:35 America/Chicago] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home1/manic/public_html/register.php on line 143
+[20-Mar-2014 10:32:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/account_info.php on line 88
+[20-Mar-2014 10:34:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/account_info.php on line 88
+[20-Mar-2014 10:35:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/account_info.php on line 82
+[20-Mar-2014 10:35:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/account_info.php on line 82
+[20-Mar-2014 10:39:40 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[20-Mar-2014 10:45:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/manic/public_html/member_home.php on line 34
+[20-Mar-2014 10:54:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/core/classes/adminControl.php on line 197
+[20-Mar-2014 10:59:57 America/Chicago] PHP Fatal error:  Class 'walk' not found in /home1/manic/public_html/walksforhistory.php on line 2
+[20-Mar-2014 11:00:00 America/Chicago] PHP Fatal error:  Class 'walk' not found in /home1/manic/public_html/walksforhistory.php on line 2
+[20-Mar-2014 11:00:46 America/Chicago] PHP Fatal error:  Class 'walk' not found in /home1/manic/public_html/walksforhistory.php on line 2
+[20-Mar-2014 11:00:48 America/Chicago] PHP Fatal error:  Class 'walk' not found in /home1/manic/public_html/walksforhistory.php on line 2
+[20-Mar-2014 11:25:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[20-Mar-2014 11:30:39 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[20-Mar-2014 11:30:41 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[20-Mar-2014 11:30:43 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[20-Mar-2014 11:32:10 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/walkpage.php on line 3
+[20-Mar-2014 11:32:11 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/walkpage.php on line 3
+[20-Mar-2014 12:37:10 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[20-Mar-2014 17:15:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home1/manic/public_html/parq.php on line 189
+[20-Mar-2014 17:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home1/manic/public_html/parq.php on line 132
+[20-Mar-2014 17:52:24 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[22-Mar-2014 08:20:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/core/classes/member.php on line 345
+[22-Mar-2014 08:20:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/view_member.php on line 55
+[22-Mar-2014 08:22:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/mod_member.php on line 79
+[23-Mar-2014 08:39:34 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[25-Mar-2014 05:18:13 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[25-Mar-2014 05:30:03 America/Chicago] PHP Catchable fatal error:  Object of class walk could not be converted to string in /home1/manic/public_html/walkpage.php on line 7
+[25-Mar-2014 05:30:40 America/Chicago] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home1/manic/public_html/functions.php:6) in /home1/manic/public_html/functions.php on line 13
+[25-Mar-2014 05:30:42 America/Chicago] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home1/manic/public_html/functions.php:6) in /home1/manic/public_html/functions.php on line 13
+[25-Mar-2014 05:30:56 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 05:30:57 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 05:31:20 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 05:31:21 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 05:40:02 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 05:40:15 America/Chicago] PHP Fatal error:  Call to undefined function db_connect() in /home1/manic/public_html/bookingclasses.php on line 49
+[25-Mar-2014 06:02:25 America/Chicago] PHP Catchable fatal error:  Object of class walk could not be converted to string in /home1/manic/public_html/walkpage.php on line 22
+[25-Mar-2014 06:02:35 America/Chicago] PHP Catchable fatal error:  Object of class walk could not be converted to string in /home1/manic/public_html/walkpage.php on line 22
+[25-Mar-2014 06:28:27 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:33:46 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:33:49 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:33:53 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:34:02 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:34:10 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:36:43 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:37:54 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 10
+[25-Mar-2014 06:42:06 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 11
+[25-Mar-2014 06:43:19 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:44:21 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:44:39 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:44:49 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:44:53 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:44:59 America/Chicago] PHP Fatal error:  Call to a member function spitWname() on a non-object in /home1/manic/public_html/walkpage.php on line 9
+[25-Mar-2014 06:45:04 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:52:53 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:52:59 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:54:27 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:54:35 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:54:37 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[25-Mar-2014 06:57:11 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[26-Mar-2014 20:38:21 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[26-Mar-2014 20:38:30 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[26-Mar-2014 20:41:06 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[26-Mar-2014 20:41:08 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[27-Mar-2014 11:18:56 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[27-Mar-2014 14:01:46 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[27-Mar-2014 14:08:22 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[27-Mar-2014 14:08:28 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 01:45:18 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 06:16:42 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 06:16:58 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 07:36:30 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 07:52:17 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 07:52:20 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 07:54:44 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 09:55:45 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[31-Mar-2014 09:55:46 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[01-Apr-2014 16:06:24 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[01-Apr-2014 16:06:31 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[01-Apr-2014 16:06:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[01-Apr-2014 16:07:34 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[01-Apr-2014 17:42:55 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[01-Apr-2014 17:43:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[01-Apr-2014 17:43:48 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[08-Apr-2014 08:28:27 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[08-Apr-2014 08:28:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[08-Apr-2014 08:29:02 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-Apr-2014 12:25:38 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-Apr-2014 14:17:12 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[11-Apr-2014 08:51:14 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[18-Apr-2014 01:23:54 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[19-Apr-2014 14:47:11 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[20-Apr-2014 07:33:35 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[20-Apr-2014 09:07:54 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[20-Apr-2014 10:00:16 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[20-Apr-2014 10:19:21 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[24-Apr-2014 08:13:49 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[26-Apr-2014 08:02:38 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[28-Apr-2014 03:25:37 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[28-Apr-2014 03:25:47 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[28-Apr-2014 04:22:17 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 17:46:52 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 17:46:57 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 17:46:59 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 17:51:36 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 18:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/manic/public_html/menu.php on line 89
+[04-May-2014 18:10:13 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[04-May-2014 18:11:42 America/Chicago] PHP Fatal error:  Call to a member function get_logged_in() on a non-object in /home1/manic/public_html/menu.php on line 110
+[04-May-2014 18:12:43 America/Chicago] PHP Fatal error:  Call to a member function get_logged_in() on a non-object in /home1/manic/public_html/menu.php on line 110
+[07-May-2014 06:36:00 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 06:36:56 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 06:37:39 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 06:37:47 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 06:42:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 06:42:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 06:45:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 06:47:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/users.php(486): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/confirm_password_reset.php(10): Users->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 06:48:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/manic/public_html/core/classes/admin.php on line 367
+[07-May-2014 06:48:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Connection could not be established with host smtp.gmx.com [Connection refused #111]' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:259
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(64): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(115): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 259
+[07-May-2014 06:50:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 08:02:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 08:04:59 America/Chicago] PHP Fatal error:  Call to undefined method Swift_MailTransport::setUsername() in /home1/manic/public_html/core/classes/admin.php on line 363
+[07-May-2014 08:06:30 America/Chicago] PHP Fatal error:  Class 'Admin' not found in /home1/manic/public_html/core/init.php on line 17
+[07-May-2014 08:06:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Connection could not be established with host smtp.gmx.com [Connection refused #111]' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:259
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(64): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(115): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 259
+[07-May-2014 08:11:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_TransportException' with message 'Failed to authenticate on SMTP server with username "webkrunch@gmx.co.uk" using 2 possible authenticators' in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:184
+Stack trace:
+#0 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(312): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(120): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home1/manic/public_html/core/swift/lib/classes/Swift/Mailer.php(80): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home1/manic/public_html/core/classes/admin.php(369): Swift_Mailer->send(Object(Swift_Message))
+#4 /home1/manic/public_html/admin_confirm_password_reset.php(10): Admin->password_reset_email('ab122701@ghs.tr...')
+#5 {main}
+  thrown in /home1/manic/public_html/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 184
+[07-May-2014 08:15:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/admin_confirm_password_reset.php on line 11
+[07-May-2014 08:27:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/confirm_password_reset.php on line 11
+[07-May-2014 10:06:07 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 10:10:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/admin_password_reset.php on line 49
+[07-May-2014 10:14:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/password_reset.php on line 52
+[07-May-2014 10:21:20 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 10:24:19 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[07-May-2014 15:50:25 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[08-May-2014 13:27:28 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-May-2014 07:11:38 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-May-2014 07:12:01 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-May-2014 07:12:03 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-May-2014 07:25:06 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[10-May-2014 10:19:04 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[11-May-2014 04:20:28 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[11-May-2014 04:22:09 America/Chicago] PHP Fatal error:  Class 'walk' not found in /home1/manic/public_html/walksforhistory.php on line 2
+[11-May-2014 04:23:47 America/Chicago] PHP Fatal error:  Call to a member function spitId() on a non-object in /home1/manic/public_html/walksforhistory.php on line 13
+[11-May-2014 04:38:14 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31
+[11-May-2014 06:23:00 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[11-May-2014 06:23:16 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[11-May-2014 09:11:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/activate.php on line 26
+[11-May-2014 09:16:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/activate.php on line 26
+[11-May-2014 14:44:40 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[11-May-2014 14:44:44 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home1/manic/public_html/bookingconfirm.php on line 95
+[11-May-2014 14:44:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[11-May-2014 15:17:15 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[11-May-2014 15:17:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirm.php on line 50
+[11-May-2014 15:17:18 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home1/manic/public_html/bookingconfirm.php on line 95
+[11-May-2014 15:17:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/bookingconfirmed.php on line 45
+[11-May-2014 19:00:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/core/classes/adminControl.php on line 197
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home1/manic/public_html/view_member.php on line 74
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'sname' in /home1/manic/public_html/view_member.php on line 74
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 76
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'acc_status' in /home1/manic/public_html/view_member.php on line 87
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 100
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 120
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home1/manic/public_html/view_member.php on line 128
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'sname' in /home1/manic/public_html/view_member.php on line 128
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'gender' in /home1/manic/public_html/view_member.php on line 137
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'dob' in /home1/manic/public_html/view_member.php on line 158
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'address' in /home1/manic/public_html/view_member.php on line 175
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'town' in /home1/manic/public_html/view_member.php on line 175
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'postcode' in /home1/manic/public_html/view_member.php on line 175
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'email' in /home1/manic/public_html/view_member.php on line 183
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'contact_number' in /home1/manic/public_html/view_member.php on line 191
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'hs_status' in /home1/manic/public_html/view_member.php on line 200
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'hs_status' in /home1/manic/public_html/view_member.php on line 207
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'hs_status' in /home1/manic/public_html/view_member.php on line 215
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'hs_status' in /home1/manic/public_html/view_member.php on line 222
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'hs_notes' in /home1/manic/public_html/view_member.php on line 234
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 235
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 250
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'credits' in /home1/manic/public_html/view_member.php on line 252
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 255
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 265
+[11-May-2014 19:58:56 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home1/manic/public_html/view_member.php on line 279
+[12-May-2014 09:05:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/new_admin.php on line 21
+[12-May-2014 13:18:01 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[12-May-2014 15:15:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/manic/public_html/header.php:7) in /home1/manic/public_html/admin_password_change.php on line 34
+[13-May-2014 07:34:50 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[13-May-2014 07:38:49 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 52
+[13-May-2014 07:46:54 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 53
+[13-May-2014 07:47:40 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home1/manic/public_html/bookingclasses.php on line 59
+[13-May-2014 07:47:44 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home1/manic/public_html/bookingclasses.php on line 59
+[13-May-2014 07:47:47 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home1/manic/public_html/bookingclasses.php on line 59
+[13-May-2014 07:50:16 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 53
+[13-May-2014 07:52:47 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/booking.php on line 53
+[13-May-2014 08:16:39 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/bookingconfirm.php on line 99
+[13-May-2014 08:17:38 America/Chicago] PHP Fatal error:  Call to a member function spitLocation() on a non-object in /home1/manic/public_html/bookingconfirm.php on line 99
+[13-May-2014 08:17:52 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 08:20:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'National' (T_STRING), expecting ',' or ';' in /home1/manic/public_html/bookingconfirm.php on line 100
+[13-May-2014 08:21:10 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home1/manic/public_html/bookingconfirm.php on line 100
+[13-May-2014 08:21:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 08:23:00 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 11:43:08 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:08 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:12 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:12 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:17 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:22 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:24 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-May-2014 11:43:24 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 11:45:59 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 11:46:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bcrypt error.' in /home1/manic/public_html/core/classes/bcrypt.php:6
+Stack trace:
+#0 /home1/manic/public_html/core/init.php(32): Bcrypt->__construct()
+#1 /home1/manic/public_html/booking.php(2): require('/home1/manic/pu...')
+#2 {main}
+  thrown in /home1/manic/public_html/core/classes/bcrypt.php on line 6
+[13-May-2014 11:46:51 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 11:47:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[13-May-2014 14:38:33 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[20-May-2014 06:58:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/bookingclasses.php on line 236
+[20-May-2014 06:58:37 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[22-May-2014 04:25:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/manic/public_html/bookingclasses.php on line 236
+[22-May-2014 04:25:44 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[31-May-2014 07:20:02 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[31-May-2014 07:20:02 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[31-May-2014 07:21:29 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[31-May-2014 07:24:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/manic/public_html/core/classes/users.php on line 413
+[31-May-2014 07:24:28 America/Chicago] PHP Fatal error:  Call to undefined method dates::walkCancel() in /home1/manic/public_html/member_home.php on line 31

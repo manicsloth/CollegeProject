@@ -1,0 +1,35 @@
+members	-Data relating to the account
+	ID				AUTO INCREMENT
+	acc_status
+	email	-same as memeber_data
+	password
+	credits
+	reg_date
+	email_code
+	generated_string
+
+members_data	-Personal Member Data
+	ID
+	fname
+	sname
+	gender
+	dob
+	address
+	town
+	postcode
+	contact_number
+	emerg_number
+	email
+
+
+members_hs	-Member health and safety
+	ID
+	hs_status
+	hs_admin
+	hs_notes
+
+members_ws	-Member workshop
+	ID
+	ws_status
+	ws_admin
+	ws_date	

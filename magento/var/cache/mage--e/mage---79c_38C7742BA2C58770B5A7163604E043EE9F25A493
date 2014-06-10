@@ -1,0 +1,21 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://ns6577.hostgator.com/~manic/magento/index.php/walk-credits/with-pole-hire.html?___SID=U">With Pole Hire</a> (1)
+                    </li>
+                                                                            <li>
+                        <a href="http://ns6577.hostgator.com/~manic/magento/index.php/walk-credits/credits-without-pole-hire.html?___SID=U">Without Pole Hire</a> (1)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>

@@ -1,0 +1,34 @@
+<?php
+require 'core/init.php';
+$admin->logged_out_protect();
+$title="Add Walks";
+require"header.php";
+require "bookingclasses.php";
+echo "<div id='content'>";
+	echo "<h1>Add a new walk</h1>";
+	echo "<form action='addconfirm.php' method='post'>";
+		echo "<p><label for='location'>Location:</label>";
+		echo "<input type='text' name='location'></p>";
+		echo "<label for='meet'>Meeting Place:</label>";
+		echo "<input type='text' name='meet'>";
+		echo "<label for='directions'>Directions:</label>";
+		echo "<input type='text' name='directions'>";
+		echo "<label for='details'>About:</label>";
+		echo "<input type='text' name='details'>";
+		echo "<label for='dogs'>Dogs:</label>";
+		echo "<select name='dogs'>";
+			echo "<option value='y'>Yes, dogs allowed</option>";
+			echo "<option value='n'>No, dogs not allowed</option>";
+		echo "</select>";
+		echo "<label for='wtime'>Walk Time:</label>";
+		echo "<input type='text' name='wtime'>";
+		echo "<label for='distance'>Distance:</label>";
+		echo "<input type='text' name='distance'>";
+		echo "<label for='imageurl'>Image Location:</label>";
+		echo "<input type='text' name='imageurl'>";
+		echo "<label for='url'>KML file location:</label>";
+		echo "<input type='text' name='url'>";
+		echo "<input type='submit'>";
+	echo "</form>";
+echo "</div>";
+?>

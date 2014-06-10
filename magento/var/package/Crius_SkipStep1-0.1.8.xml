@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Crius_SkipStep1</name>
+    <version>0.1.8</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Remove the first step from onepage checkout</summary>
+    <description>Remove the first checkout step (guest/register/login) from the onepage checkout and go directly to billing address.</description>
+    <notes>Updated for Magento 1.7</notes>
+    <authors><author><name>Anders Rasmussen</name><user>crius</user><email>andersadlibitum@gmail.com</email></author></authors>
+    <date>2013-04-14</date>
+    <time>17:50:44</time>
+    <contents><target name="magecommunity"><dir name="Crius"><dir name="SkipStep1"><dir name="Block"><dir name="Checkout"><file name="Onepage.php" hash="6d6ccd054628089dd403a3ab358f30f4"/></dir></dir><dir name="Helper"><file name="Data.php" hash="16a4e067146e73c590eab27d427c3243"/></dir><dir name="Model"><dir name="System"><dir name="Config"><dir name="Source"><dir name="Checkout"><file name="Method.php" hash="23629a244e0f3631b1b89f01dde39162"/></dir></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="b9933093b8b433416fd4d5148abf2c6c"/><file name="system.xml" hash="4a71597cb8c8a94f2924b709300682fa"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Crius_SkipStep1.xml" hash="4fa32ed0276b5b895d63882ce6843469"/></dir></target><target name="magelocale"><dir name="en_US"><file name="Crius_SkipStep1.csv" hash="6a8a7f1fba688da41da9e41aba660894"/></dir><dir name="da_DK"><file name="Crius_SkipStep1.csv" hash="36b175b5a5669fe3a8ed2b35de24a742"/></dir><dir name="de_DE"><file name="Crius_SkipStep1.csv" hash="cea8eb306bbfd1f2d8bbab72c6d592c9"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="skipstep1.xml" hash="2e3ecd3fd6135a27dacccaf9b7f2a5e5"/></dir><dir name="template"><dir name="skipstep1"><file name="billing.phtml" hash="50becb99ec89582d97351160d23d7943"/><file name="login.phtml" hash="dd5f60c5b956cb469d25e0c10b0d9259"/><file name="skip.phtml" hash="3698fd8a5ca4d1ef62db31653006ce4a"/><file name=".DS_Store" hash="194577a7e20bdcc7afbb718f502c134c"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
